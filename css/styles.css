@@ -1,11 +1,20 @@
 body{
-    background-color:AFB4FF; 
-  }
-  hr{
-    border-style:none;
-    border-top-style:dotted;
-    width: 5%;
-    border-color: grey;
-    border-width:5px
-    
-  }
+  background-color:D9D7F1; 
+}
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  width: 5%;
+  border-color: grey;
+  border-width:5px
+  
+}
+h3{
+color:9C9EFE;
+}
+h1{
+color:9C9EFE;
+}
+h4{
+color:AFB4FF;
+}
